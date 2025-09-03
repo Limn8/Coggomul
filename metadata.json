@@ -1,0 +1,5 @@
+{
+  "name": "Copy of cossim",
+  "description": "A Korean word chain game where the goal is to provide words with high cosine similarity to the previous word. Difficulty can be set, and scores are tracked until a word fails to meet the similarity threshold.",
+  "requestFramePermissions": []
+}
